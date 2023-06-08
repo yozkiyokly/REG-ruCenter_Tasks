@@ -26,10 +26,14 @@ my @unsorted = ( qw/ 7 1 3 4 2 4 6 5 5 / );
 Приложить дамп БД.
  код - 
 	index.pl 
-	configFile.pm
+	https://github.com/yozkiyokly/REG-ruCenter_Tasks/blob/main/index.pl
+	
+	configFile.pm 
+	https://github.com/yozkiyokly/REG-ruCenter_Tasks/blob/main/configFile.pm
  
  дамп таблицы с инициальными данными - 
-	addrbook.sql
+	addrbook.sql 
+	https://github.com/yozkiyokly/REG-ruCenter_Tasks/blob/main/addrbook.sql
 
 ------------
 б. Ещё нужно написать утилиту для командной строки, наглядно показывающую преимущества двоичного поиска над линейным в сортированных данных.
@@ -41,7 +45,8 @@ my @unsorted = ( qw/ 7 1 3 4 2 4 6 5 5 / );
 22 - поисковый паттерн. он будет найден, поскольку в конце строки имеется такое число среди элементов будущего массива.
 При отсутствии параметров предусмотри дефолтные.
 файл: 
-	arraySearch.pl
+	arraySearch.pl  
+	https://github.com/yozkiyokly/REG-ruCenter_Tasks/blob/main/arraySearch.pl
 
 ------------
 в. Кроме того, следует показать использование перлом 
@@ -57,7 +62,8 @@ my @unsorted = ( qw/ 7 1 3 4 2 4 6 5 5 / );
 Использование вызовa SYSTEM будет плюсом.
 
 файл: 
-	arraySortCURSES.pl
+	arraySortCURSES.pl 
+	https://github.com/yozkiyokly/REG-ruCenter_Tasks/blob/main/arraySortCURSES.pl
 
 
 ------------	
